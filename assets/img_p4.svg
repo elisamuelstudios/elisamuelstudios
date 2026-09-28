@@ -866,7 +866,7 @@
     <g class="log-line-1">
       <rect x="14" y="10" width="712" height="20" fill="#064e3b" />
       <text class="retro-text" x="26" y="24" font-size="10" fill="#a7f3d0" letter-spacing="1">
-        🦆 CRÓNICAS DEL PEREGRINAJE • EL ENCUENTRO EN EL TOCÓN SAGRADO
+        🦆 CRÓNICAS DEL PEREGRINAJE • LOS PERGAMINOS DEL SABER
       </text>
       <text class="retro-text" x="712" y="24" text-anchor="end" font-size="9" fill="#facc15">
         [DELIRIO ACTIVO]
@@ -883,21 +883,21 @@
     <!-- EVENTO 2: EL PATO EN EL TOCÓN (57.1s) -->
     <g class="log-line-2">
       <text class="retro-text" x="24" y="78" font-size="10" fill="#facc15">
-        🦆 En un tocón a la orilla del sendero reposa un Pato de Goma amarillo de mirada imperturbable.
+        🦆 En un tocón, el Pato de Goma revela sus pergaminos: Ingeniero Electrónico — U. de la Costa (2025)
       </text>
     </g>
 
     <!-- EVENTO 3: COLAPSO Y CONFESIÓN DE CÓDIGO LEGACY (59.1s) -->
     <g class="log-line-3">
       <text class="retro-text" x="24" y="102" font-size="10" fill="#fde047">
-        💬 gNOR-mu colapsa de rodillas y le recita 800 líneas de código legacy sin tests ni comentarios...
+        💬 Licenciado en Música — U. del Atlántico (2021) • Técnico en Programación de Software — SENA (2012)
       </text>
     </g>
 
     <!-- EVENTO 4: EL SQUEAK, CURACIÓN Y ADOPCIÓN COMO SOMBRERO (61.1s) -->
     <g class="log-line-4">
       <text class="retro-text" x="24" y="126" font-size="10" fill="#34d399">
-        🔊 *¡SQUEAK!* La mente de gNOR-mu se aclara (+1 HP) y adopta al Pato de sombrero sagrado.
+        🔊 *¡SQUEAK!* +1 HP • Diplomado en Control y Automatización Industrial (2024) • Español nativo / Inglés B1
       </text>
     </g>
 

@@ -370,7 +370,7 @@
     </g>
 
     <text class="retro-text" x="400" y="316" text-anchor="middle" font-size="11" fill="#68638c" letter-spacing="2">
-      LEYENDO DATOS DE LA MEMORIA ROM...
+      CARGANDO: ELISAMUEL VALERA SOCARRÁS
     </text>
   </g>
 
@@ -395,24 +395,24 @@
       <g class="log-line-1">
         <rect x="14" y="10" width="712" height="20" fill="#1b1433" />
         <text class="retro-text" x="26" y="24" font-size="10" fill="#ffd152" letter-spacing="1">
-          ⚔ REGISTRO DE BATALLA POR TURNOS • ENCUENTRO #0404
+          ⚔ FICHA DEL HÉROE • ELISAMUEL VALERA SOCARRÁS
         </text>
         <text class="retro-text" x="712" y="24" text-anchor="end" font-size="9" fill="#00ffcc">
-          [BATALLA-AUTO]
+          [SENIOR FULL STACK]
         </text>
       </g>
 
       <!-- PASO 1: APARICIÓN DEL BUG (3.2s) -->
       <g class="log-line-1">
         <text class="retro-text" x="24" y="54" font-size="10" fill="#ff5376">
-          ⚠ ¡Un BUG salvaje [NullPointerException] emboscó al héroe!
+          ⚠ ¡Un BUG salvaje emboscó al Senior Full Stack Dev de Barranquilla, CO!
         </text>
       </g>
 
       <!-- PASO 2: EL BUG ATACA PRIMERO (4.4s) -->
       <g class="log-line-2">
         <text class="retro-text" x="24" y="78" font-size="10" fill="#ff8552">
-          ⚡ ¡El BUG lanzó 'Excepción No Controlada'!
+          ⚡ Escudo: Angular 20+ • NestJS • Node.js • Django
         </text>
         <text class="retro-text" x="380" y="78" font-size="9" fill="#a599c2">
           (¡El escudo bloqueó 99% de daño! -12 HP)
@@ -422,7 +422,7 @@
       <!-- PASO 3: CONTRAATAQUE DEL JUGADOR / HÉROE (5.8s) -->
       <g class="log-line-3">
         <text class="retro-text" x="24" y="102" font-size="10" fill="#00ffff">
-          🗡 ¡gNOR-mu contraatacó con 'git commit -m "solucionar bugs"'!
+          🗡 Contraataque: APIs REST + PostgreSQL + VPS Docker/Traefik
         </text>
         <text class="retro-text" x="510" y="102" font-size="9" fill="#70d6ff">
           (-100 MP)
@@ -432,14 +432,14 @@
       <!-- PASO 4: GOLPE CRÍTICO Y DERROTA DEL BUG (7.2s) -->
       <g class="log-line-4">
         <text class="retro-text" x="24" y="126" font-size="10" fill="#38ef7d">
-          💥 ¡GOLPE CRÍTICO! 0 Errores, 0 Advertencias • ¡BUG DERROTADO!
+          💥 ¡CRÍTICO! Plataformas web escalables y de alto rendimiento en producción • ¡BUG DERROTADO!
         </text>
       </g>
 
       <!-- PASO 5: VICTORIA Y EXP FINAL (8.5s en adelante, permanente) -->
       <g class="log-line-5">
         <text class="retro-text" x="24" y="150" font-size="10" fill="#ffd152" letter-spacing="1">
-          ★ ¡VICTORIA! +1337 EXP • ESTADO: LISTO PARA EL SIGUIENTE DESAFÍO ★
+          ★ ¡VICTORIA! +1337 EXP • Buff de IA desbloqueado • LISTO PARA EL SIGUIENTE DESAFÍO ★
         </text>
       </g>
 

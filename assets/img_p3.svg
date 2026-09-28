@@ -570,7 +570,7 @@
     <g class="log-line-1">
       <rect x="14" y="10" width="712" height="20" fill="#24103d" />
       <text class="retro-text" x="26" y="24" font-size="10" fill="#e879f9" letter-spacing="1">
-        📜 CRÓNICAS DEL ÉXODO • EL PESO DE LA HERENCIA MALDITA
+        📜 CRÓNICAS DEL ÉXODO • ECOS DE MISIONES PASADAS
       </text>
       <text class="retro-text" x="712" y="24" text-anchor="end" font-size="9" fill="#ef4444">
         [ESTADO CRÍTICO]
@@ -580,28 +580,28 @@
     <!-- EVENTO 1: EL HÉROE ABANDONA EL LUGAR Y EL COFRE SE DESVANECE -->
     <g class="log-line-1">
       <text class="retro-text" x="24" y="54" font-size="10" fill="#cbd5e1">
-        ▶ El Cofre Ancestral colapsa en el vacío... El eco de mil advertencias se disuelve en cenizas.
+        ▶ El Cofre colapsa... y resuena un eco: Game Developer @ Aventuras Bonitas (2023–2025) • Unity + C# + FMOD
       </text>
     </g>
 
     <!-- EVENTO 2: EL EFECTO DEL DEBUFF SE APLICA (DRENAJE DE VIDA Y MANÁ) -->
     <g class="log-line-2">
       <text class="retro-text" x="24" y="78" font-size="10" fill="#ff5376">
-        ☠ ¡El DEBUFF DE DEUDA TÉCNICA cobra su tributo! HP colapsa a 100 • Maná agotado (0 MP).
+        ☠ ¡La DEUDA TÉCNICA cobra su tributo! HP 100 • 0 MP • Recuerdo: Docente @ U. Sergio Arboleda (2024–2025)
       </text>
     </g>
 
     <!-- EVENTO 3: EL SELLO Y LA IMPOSIBILIDAD DE CURACIÓN -->
     <g class="log-line-3">
       <text class="retro-text" x="24" y="102" font-size="10" fill="#fef08a">
-        🔒 Una verdad inexorable resuena en las sombras: ninguna poción ni hotfix puede purificar este mal.
+        🔒 Web Dev @ Fundación Castillo de Esperanza (2021–2025): fucaesp.org con Django • streaming y multimedia
       </text>
     </g>
 
     <!-- EVENTO 4: APARICIÓN DE LA PUERTA Y MARCHA HACIA LOS SABIOS (SENIORS) -->
     <g class="log-line-4">
       <text class="retro-text" x="24" y="126" font-size="10" fill="#38bdf8">
-        🌄 Un portal de luz diurna se abre en la penumbra... gNOR-mu avanza hacia el exterior.
+        🌄 Un portal se abre... Fibra Óptica @ Liteyca y Conectar TV (2022–2023) • Docente de Matemáticas y Música
       </text>
     </g>
 

@@ -720,28 +720,28 @@
     <!-- EVENTO 1: LA NOCHE Y EL FRÍO (69.0s) -->
     <g class="log-line-1">
       <text class="retro-text" x="24" y="54" font-size="10" fill="#cbd5e1">
-        ▶ Cae la noche sobre el sendero... El frío arrecia y los 101 HP empiezan a titilar en la penumbra.
+        ▶ Cae la noche... gNOR-mu revisa su arsenal: Angular 20+, Signals, NestJS, Django + DRF, PostgreSQL, Supabase
       </text>
     </g>
 
     <!-- EVENTO 2: EL FARO EN LA CUMBRE (71.5s) -->
     <g class="log-line-2">
       <text class="retro-text" x="24" y="78" font-size="10" fill="#38bdf8">
-        ✨ A lo lejos, en la cumbre más alta, un faro místico emite destellos rítmicos de luz cian.
+        ✨ En la cumbre, un faro DevOps destella: Docker • VPS • Traefik • Nginx • AWS (EC2, S3) • cPanel
       </text>
     </g>
 
     <!-- EVENTO 3: EL PATO-YELMO Y LA FRECUENCIA 5.0 GHz (74.0s) -->
     <g class="log-line-3">
       <text class="retro-text" x="24" y="102" font-size="10" fill="#facc15">
-        🦆 ¡El Pato-Yelmo capta ondas electromagnéticas milenarias! Su pico vibra a 5.0 GHz.
+        🦆 ¡El Pato-Yelmo capta IA a 5.0 GHz! Claude • Codex • GitHub Copilot • Cursor • n8n + Webhooks
       </text>
     </g>
 
     <!-- EVENTO 4: EL PING CELESTIAL Y EL REMOTO (76.5s) -->
     <g class="log-line-4">
       <text class="retro-text" x="24" y="126" font-size="10" fill="#4ade80">
-        📩 Un ping celestial resuena: "Los Seniors están en remoto... revisa la doc en: la intranet".
+        📩 Ping celestial: linkedin.com/in/elisamuel • github.com/elisamuelstudios • youtube.com/@ElisamuelStudios
       </text>
     </g>
 

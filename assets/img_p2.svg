@@ -496,7 +496,7 @@
     <g class="story-line-1">
       <rect x="14" y="10" width="712" height="20" fill="#24103d" />
       <text class="retro-text" x="26" y="24" font-size="10" fill="#e879f9" letter-spacing="1">
-        📜 CRÓNICAS DE LA MAZMORRA • CÁMARA DE RECOMPENSAS PROHIBIDAS
+        📜 CRÓNICAS DE LA MAZMORRA • MISIONES ACTUALES
       </text>
       <text class="retro-text" x="712" y="24" text-anchor="end" font-size="9" fill="#f43f5e">
         [ALERTA: BOTÍN CORRUPTO]
@@ -506,28 +506,28 @@
     <!-- EVENTO 1: ABRIR EL COFRE (13.0s) -->
     <g class="story-line-1">
       <text class="retro-text" x="24" y="54" font-size="10" fill="#cbd5e1">
-        ▶ gNOR-mu inspecciona el Cofre Dorado hallado en la mazmorra...
+        ▶ gNOR-mu abre el Cofre de Misiones: Full Stack Dev @ Sistemas de Aplicaciones en Línea (2026–Hoy)
       </text>
     </g>
 
     <!-- EVENTO 2: EL MECANISMO CEDE (14.3s) -->
     <g class="story-line-2">
       <text class="retro-text" x="24" y="78" font-size="10" fill="#fef08a">
-        🔓 *¡CLIC!* El cerrojo cede con un zumbido oscuro y siniestro...
+        🔓 *¡CLIC!* Botín: plataforma de comparendos, fotodetección y geocercas • Angular + NestJS
       </text>
     </g>
 
     <!-- EVENTO 3: APARECE EL OBJETO MALDITO (15.8s) -->
     <g class="story-line-3">
       <text class="retro-text" x="24" y="102" font-size="10" fill="#ff5376">
-        ☠ ¡PELIGRO! ¡No es oro! ¡El artefacto maldito '[CÓDIGO_LEGACY]' despierta!
+        ☠ ¡Misión freelance! Sistema de Cartera y préstamos (Ago 2026) • NestJS + PostgreSQL + Angular 20
       </text>
     </g>
 
     <!-- EVENTO 4: EFECTO DE LA MALDICIÓN (17.0s) -->
     <g class="story-line-4">
       <text class="retro-text" x="24" y="126" font-size="10" fill="#c084fc">
-        ⚡ Efecto de Maldición: Documentación perdida hace 10 años • Deuda Técnica +9999
+        ⚡ PWA para cobradores: pagos, rutas y cierre de caja • VPS con Traefik y Let's Encrypt • Deuda +9999
       </text>
     </g>
 
