@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋🏻 Hi, I'm Elisamuel Valera
+# ⚔️ Hi, I'm Elisamuel Valera
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Developer+%F0%9F%9A%80;Angular+20%2B+%7C+NestJS+%7C+Node.js+%F0%9F%92%BB;REST+APIs+%7C+PostgreSQL+%7C+Docker+%E2%9A%99%EF%B8%8F;AWS+EC2+%7C+S3+%7C+Nginx+%E2%98%81%EF%B8%8F;Dashboards+%7C+Geospatial+Systems+%7C+Photo+Detection+%F0%9F%97%BA%EF%B8%8F;Unity+Game+Developer+%7C+C%23+%F0%9F%8E%AE;Always+Learning+and+Building+%F0%9F%93%9A)](https://github.com/elisamuelstudios)
 
@@ -12,36 +12,86 @@
 
 ---
 
+## 🎮 La saga de gNOR-mu
+
+<div align="center">
+
+![Capítulo I: El ataque](assets/img.svg)
+![Capítulo II: La maldición del cofre](assets/img_p2.svg)
+![Capítulo III: El ritual de refactorización](assets/img_p3.svg)
+![Capítulo IV: El oráculo amarillo (PATITO)](assets/img_p4.svg)
+![Capítulo V: El faro en la penumbra](assets/img_p5.svg)
+![Capítulo VI: Fin](assets/img_p6.svg)
+
+</div>
+
+---
+
+## 🧙 Sobre mí
+
 Ingeniero de software Full Stack especializado en el diseño, desarrollo y despliegue de plataformas web escalables y de alto rendimiento. Experiencia en Angular, NestJS, Node.js y Django, construyendo aplicaciones robustas, APIs REST y soluciones orientadas a negocio.
+
+---
+
+## 🛠️ Inventario (Tech Stack)
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap,materialui&theme=dark)](https://skillicons.dev)
+<br/>
+[![Skills](https://skillicons.dev/icons?i=nestjs,nodejs,express,python,django,postgres,sqlite,supabase,firebase&theme=dark)](https://skillicons.dev)
+<br/>
+[![Skills](https://skillicons.dev/icons?i=aws,docker,nginx,git,github,bitbucket,jira,notion,vscode&theme=dark)](https://skillicons.dev)
+<br/>
+[![Skills](https://skillicons.dev/icons?i=unity,cs,wordpress,ableton&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## 🎯 Enfoque actual
 
-**Desarrollo Web (Full Stack)**
-- Front-end: Angular + (Signals, Standalone Components), HTML5, SCSS, JavaScript, TypeScript, Bootstrap 5, Angular Material.
-- Back-end: NestJS, Node.js (Express), Python, Django, Django REST Framework.
-- Bases de Datos: PostgreSQL, SQLite, Supabase, Firebase.
-- DevOps: Despliegue en AWS (EC2, S3), Docker, Nginx y administración de entornos.
-- Arquitectura y APIs: Diseño e implementación de APIs REST, integración de servicios y desarrollo de plataformas escalables.
-- Desarrollo de dashboards, sistemas de visualización de datos, mapas, georreferenciación, geocercas y módulos de fotodetección.
-- CMS: WordPress + Elementor, gestión con cPanel.
+<details open>
+<summary><b>🌐 Desarrollo Web (Full Stack)</b></summary>
 
- **Desarrollo de Videojuegos (Unity + C#)**
+- **Front-end:** Angular + (Signals, Standalone Components), HTML5, SCSS, JavaScript, TypeScript, Bootstrap 5, Angular Material.
+- **Back-end:** NestJS, Node.js (Express), Python, Django, Django REST Framework.
+- **Bases de Datos:** PostgreSQL, SQLite, Supabase, Firebase.
+- **DevOps:** Despliegue en AWS (EC2, S3), Docker, Nginx y administración de entornos.
+- **Arquitectura y APIs:** Diseño e implementación de APIs REST, integración de servicios y desarrollo de plataformas escalables.
+- Desarrollo de dashboards, sistemas de visualización de datos, mapas, georreferenciación, geocercas y módulos de fotodetección.
+- **CMS:** WordPress + Elementor, gestión con cPanel.
+
+</details>
+
+<details>
+<summary><b>🕹️ Desarrollo de Videojuegos (Unity + C#)</b></summary>
+
 - Programación de juegos 3D y 2D: mecánicas, IA, lógica, física y C#.
 - Diseño e implementación de UI/UX.
 - Integración de audio con FMOD y Ableton Live.
 - Control de versiones con GitHub.
-- Automatización y Low-Code
+
+</details>
+
+<details>
+<summary><b>⚡ Automatización y Low-Code</b></summary>
+
 - Automatización de flujos en n8n, integraciones con WhatsApp, calificación de leads y bases de datos.
 - Uso de Webhooks, API REST, Supabase, Docker, Evolution API y workflows personalizados.
 
- **Metodologías y Herramientas**
+</details>
+
+<details>
+<summary><b>📋 Metodologías y Herramientas</b></summary>
+
 - Experiencia trabajando bajo metodología Scrum.
 - Gestión de sprints, refinamiento funcional y seguimiento de entregas.
 - Gestión colaborativa con Jira y Notion.
 - Control de versiones con Git, GitHub y Bitbucket.
 - Uso de Visual Studio Code, GitLens y herramientas de IA aplicadas al desarrollo (Codex, Antigravity).
+
+</details>
 
 ---
 
