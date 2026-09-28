@@ -239,7 +239,7 @@
       <text x="36" y="42" font-size="12" fill="#ff4b72">♥ HP 987/999</text>
       <text x="180" y="42" font-size="12" fill="#00d2ff">★ MP 899/999</text>
       <!-- Nombre del héroe / cuenta debajo del HP -->
-      <text x="36" y="60" font-size="11" fill="#00ffcc">⚔ gNOR-mu</text>
+      <text x="36" y="60" font-size="11" fill="#00ffcc">⚔ Elisamuel Studios</text>
       <!-- Debuff que se activa con la Deuda Técnica (17.0s) -->
       <g class="debuff-hud">
         <rect x="36" y="67" width="138" height="15" fill="#250918" stroke="#f43f5e" stroke-width="1" rx="3" />
@@ -506,7 +506,7 @@
     <!-- EVENTO 1: ABRIR EL COFRE (13.0s) -->
     <g class="story-line-1">
       <text class="retro-text" x="24" y="54" font-size="10" fill="#cbd5e1">
-        ▶ gNOR-mu abre el Cofre de Misiones: Full Stack Dev @ Sistemas de Aplicaciones en Línea (2026–Hoy)
+        ▶ Elisamuel abre el Cofre de Misiones: Full Stack Dev @ Sistemas de Aplicaciones en Línea (2026–Hoy)
       </text>
     </g>
 

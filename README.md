@@ -12,7 +12,7 @@
 
 ---
 
-## 🎮 La saga de gNOR-mu
+## 🎮 La saga de Elisamuel Studios
 
 <div align="center">
 

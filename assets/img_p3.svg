@@ -275,7 +275,7 @@
       </text>
 
       <!-- Nombre del héroe / cuenta debajo del HP -->
-      <text x="36" y="60" font-size="11" fill="#00ffcc">⚔ gNOR-mu</text>
+      <text x="36" y="60" font-size="11" fill="#00ffcc">⚔ Elisamuel Studios</text>
 
       <!-- DEBUFF: DEUDA TÉCNICA (Mantenido exactamente como en la Pt. 2) -->
       <g transform="translate(36, 67)">

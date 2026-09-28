@@ -485,7 +485,7 @@
       <text x="180" y="42" font-size="12" fill="#94a3b8">★ MP 000/999</text>
 
       <!-- Nombre del héroe con su sombrero adoptado -->
-      <text x="36" y="60" font-size="11" fill="#00ffcc">⚔ gNOR-mu (Con Pato-Yelmo)</text>
+      <text x="36" y="60" font-size="11" fill="#00ffcc">⚔ Elisamuel Studios (Pato-Yelmo)</text>
 
       <!-- DEBUFF DE DEUDA TÉCNICA -->
       <g transform="translate(36, 67)">
@@ -565,7 +565,7 @@
       <rect x="70" y="33" width="4" height="3" fill="#34d399" rx="1" />
     </g>
 
-    <!-- 2. EL HÉROE gNOR-mu CON PATO-YELMO ACTIVO (x=360, y=95) -->
+    <!-- 2. EL HÉROE Elisamuel CON PATO-YELMO ACTIVO (x=360, y=95) -->
     <g transform="translate(360, 95)">
       <!-- Animación de respiración/reposo nocturno -->
       <g class="hero-idle-night">
@@ -720,7 +720,7 @@
     <!-- EVENTO 1: LA NOCHE Y EL FRÍO (69.0s) -->
     <g class="log-line-1">
       <text class="retro-text" x="24" y="54" font-size="10" fill="#cbd5e1">
-        ▶ Cae la noche... gNOR-mu revisa su arsenal: Angular 20+, Signals, NestJS, Django + DRF, PostgreSQL, Supabase
+        ▶ Cae la noche... Elisamuel revisa su arsenal: Angular 20+, Signals, NestJS, Django + DRF, PostgreSQL, Supabase
       </text>
     </g>
 
